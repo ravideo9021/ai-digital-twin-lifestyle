@@ -1,0 +1,10 @@
+{
+  "name": "Soma — Your Digital Twin",
+  "short_name": "Soma",
+  "description": "Predictive lifestyle intelligence for sleep, nutrition, activity and stress.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050506",
+  "theme_color": "#050506",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
